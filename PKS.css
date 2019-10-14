@@ -1,0 +1,48 @@
+body {
+   	padding-left: 2em;
+	padding-right: 2em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #33C0B9;
+}
+
+.navigation{
+	background-color: #D5B30D;
+  	text-align: center;
+  	border: 3px solid black;
+	display: block;
+	color: white;
+}
+.navigation ul{
+	list-style-type: none;	
+	margin: 0;
+	padding: 0;
+ 	text-align: center;
+    display: inline-block;
+}
+.navigation li{
+	float: left;
+}
+.navigation li a {
+	display: block;
+  	color: white;
+  	text-align: center;
+  	padding: 1em;
+  	text-decoration: none;
+}
+.navigation li a:hover {
+	background-color: #111111;
+}
+.cal{
+	border: 3px solid black;
+	display:block;
+	margin-left: auto;   /* Automatic margin from left */
+    margin-right: auto; /* Automatic margin from right */
+	margin-top: 3em;
+}
+
+h1{
+	text-align: center;
+	background-color: #EBFF59;
+	border: 2px solid black;
+}
+
